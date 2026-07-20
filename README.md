@@ -44,11 +44,12 @@ This project demonstrates how Microsoft Excel Pivot Tables can be used to summar
 
 ---
 
-## 📁 Files Included
+## 📂 Project Files
 
-- Pivot Table Analysis.xlsx
-- Pivot Table Analysis Screenshot.png
+Download the project files below:
 
+- 📊 [Pivot Table Analysis Workbook](./PIVOT%20TABLE%20ANALYSIS.xlsx)
+- 🖼️ [Pivot Table Analysis Preview](./Pivot%20Analysis%20Png.png)
 ---
 
 ## 📈 Key Insights
